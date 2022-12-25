@@ -20,5 +20,8 @@ namespace AutomationExerciseFramework.Helpers
         public const string ZipCode = "10010";
         public const string Phone = "0800100100";
 
+        // contact us data
+        public const string Subject = "Request";
+        public const string Message = "Would you be able ";
     }
 }
